@@ -22,16 +22,4 @@ Sistema PDV para papelarias - Uma solução completa para gestão de vendas e es
 
 Portfólio pessoal - Um site responsivo para exibir meus projetos e experiências.
 
-💻 Tecnologias e Ferramentas
-
-☕ Java | Spring Boot | Hibernate
-
-✨ JavaScript | HTML | CSS
-
-🛠️ Banco de Dados (MySQL, PostgreSQL)
-
-🔍 APIs RESTful
-
-📈 Padrões de Projeto | SOLID | MVC
-
-💎 AWS | Docker | Git
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
