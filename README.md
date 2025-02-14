@@ -17,7 +17,7 @@ Sou um desenvolvedor entusiasta, sempre em busca de novos desafios e aprendizado
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abreuwilliam&hide_progress=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abreuwilliam&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==abreuwilliam&layout=compact)
 
 🌟 Projetos em destaque
 
