@@ -22,4 +22,4 @@ Sistema PDV para papelarias - Uma solução completa para gestão de vendas e es
 
 Portfólio pessoal - Um site responsivo para exibir meus projetos e experiências.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abreuwiliam&hide_progress=true)
