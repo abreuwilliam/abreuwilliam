@@ -17,6 +17,8 @@ Sou um desenvolvedor entusiasta, sempre em busca de novos desafios e aprendizado
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abreuwilliam&hide_progress=true)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abreuwilliam)](https://github.com/anuraghazra/github-readme-stats)
+
 🌟 Projetos em destaque
 
 Sistema PDV para papelarias - Uma solução completa para gestão de vendas e estoque.
