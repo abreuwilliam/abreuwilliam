@@ -35,7 +35,6 @@
  
 Sou um desenvolvedor entusiasta, sempre em busca de novos desafios e aprendizados no mundo da tecnologia. Com experiência em desenvolvimento backend e frontend, estou constantemente aprimorando minhas habilidades para criar soluções eficientes e inovadoras.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abreuwilliam&layout=compact)
 
 🌟 Projetos em destaque
 
