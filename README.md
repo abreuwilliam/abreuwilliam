@@ -4,6 +4,13 @@ Backend Developer | Java & Spring
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-abreu-pereira/)
 
 ---
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abreuwilliam&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuwilliam&layout=compact&theme=dark&hide_border=true"/>
+</p>
+---
 
 ## 🛠️ Stack Principal
 
