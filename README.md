@@ -12,7 +12,6 @@ Backend Developer | Java & Spring
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
 ### 🗄️ Banco de Dados
@@ -30,12 +29,6 @@ Backend Developer | Java & Spring
 </p>
 
 ---
-
-## 🚀 Projetos
-
-- 🏪 Sistema Web PDV  
-- 💳 Microsserviço Gateway de Pagamento  
-- 🏥 Monitor de Sinais Vitais em Tempo Real  
 
 🌐 Portfólio:  
 https://william-abreu-portfolio.netlify.app/
