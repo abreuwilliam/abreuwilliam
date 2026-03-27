@@ -11,7 +11,7 @@ Backend Developer | Java & Spring
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abreuwilliam&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-## 🛠️ Stack Principal
+## 🛠️ Principais Stacks
 
 ### 💻 Backend
 <p align="left">
