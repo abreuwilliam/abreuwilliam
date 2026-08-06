@@ -39,7 +39,7 @@ Backend Developer | Java & Spring
 ## 🌐 Portfólio
 
 <p align="left">
-  <a href="https://william-abreu-portfolio.netlify.app/" target="_blank">
+  <a href="https://abreuwilliam.duckdns.org/" target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
