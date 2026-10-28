@@ -7,10 +7,9 @@ Desenvolvedor FullStack | Spring Boot e Quarkus | REST APIs | Docker | Clean Cod
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abreuwilliam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abreuwilliam&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=abreuwilliam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abreuwilliam&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
 ## 🛠️ Principais Stacks
 
 ### 💻 Backend
