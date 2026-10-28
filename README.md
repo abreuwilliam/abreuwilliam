@@ -1,5 +1,5 @@
 ### Olá, eu sou William Abreu   
-Backend Developer | Java & Spring
+Desenvolvedor FullStack | Spring Boot e Quarkus | REST APIs | Docker | Clean Code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-abreu-pereira/)
 
